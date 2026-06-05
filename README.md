@@ -9,13 +9,13 @@
   <a href="mailto:jonathan.bonfim.data@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-## 👨‍💻 About me
+## About me
 
 - 🔧 **Data Engineer** — I build and evolve cloud data platforms (GCP) with **SQL**, **dbt** (medallion architecture) and **BigQuery**.
 - ⚡ Experience with **Big Data** and large-scale processing using **PySpark** and **Databricks**.
 - ⚙️ I bring **software engineering best practices to data**: Git/GitHub, Pull Requests, code review and data quality testing.
 - 📈 I grew from business analysis and BI into data engineering, across the **healthcare** and **food** sectors.
-- 🎓 Currently pursuing a postgraduate degree in **Data Engineering**.
+- 👨‍💻 Currently pursuing a postgraduate degree in **Data Engineering**.
 
 <!-- <br clear="all" /> -->
 
@@ -58,10 +58,3 @@
 <br clear="all" />
 
 ## Let's connect!
-
-Want to chat about data, dbt or data modeling? Reach out:
-
-<p>
-  <a href="https://www.linkedin.com/in/jonathan-bonfim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:jonathan.bonfim.data@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
